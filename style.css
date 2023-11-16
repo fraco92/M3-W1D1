@@ -1,0 +1,81 @@
+/* ESERCIZIO 1 */
+.jumbotron h1 {
+  font-weight: 700;
+}
+
+/* ESERCIZIO 2 */
+.nav > * {
+  color: rgb(0, 86, 178);
+  font-weight: 600;
+}
+
+/* ESERCIZIO 3 */
+.jumbotron a:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+/* ESERCIZIO 4 */
+.blog-post:first-of-type {
+  background-color: rgb(255 246 243);
+  padding: 24px;
+}
+
+/* ESERCIZIO 5 */
+.blog-post:first-of-type hr {
+  background-color: red;
+}
+
+/* ESERCIZIO 6 */
+.nav span:nth-of-type(even) {
+  color: rgb(178, 80, 0);
+}
+
+/* ESERCIZIO 7 */
+.p-4:nth-of-type(2) a:hover {
+  color: rgb(178, 80, 0);
+}
+
+/* ESERCIZIO 8 */
+.blog-post:nth-of-type(2) .blog-post-meta a {
+  color: green;
+}
+
+/* ESERCIZIO 9 */
+.blog-post:nth-of-type(3) ul li:nth-of-type(2) {
+  font-weight: 600;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+/* ESERCIZIO 10 */
+body a:last-of-type {
+  font-weight: 700;
+}
+
+body a:last-of-type:hover {
+  color: rgb(87, 162, 192);
+}
+
+/* .float-right:hover {
+  color: black;
+  font-weight: 700;
+  background-color: rgb(87, 162, 192);
+  padding-inline: 10px;
+  padding-block: 5px;
+} */
+
+/* ESERCIZIO 11 */
+.blog-pagination a:last-of-type {
+  color: rgb(178, 80, 0);
+  font-weight: 800;
+}
+
+/* ESERCIZIO 12 */
+footer a:nth-of-type(2) {
+  color: rgb(121, 189, 154);
+}
+
+.displayNone {
+  display: none;
+}
